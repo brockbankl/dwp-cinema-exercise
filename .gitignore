@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs and databases
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Jest
+coverage/
+
+# Generated files
+test-report.html
